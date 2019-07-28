@@ -1,2 +1,2 @@
 # la-terraform
-practising building terraform on was
+practising building terraform on AWS
