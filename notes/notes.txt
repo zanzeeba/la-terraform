@@ -1,0 +1,24 @@
+-- this is for the linux ac terraform course
+
+mkdir -p networking compute storage
+
+
+touch dir1/dir2/dir3/file3.txt
+
+mkdir -p networking compute storage
+
+
+touch compute/main.tf/variable.tf/output.tf
+
+
+-- this is for the linux ac terraform course
+
+mkdir -p networking compute storage
+
+
+touch dir1/dir2/dir3/file3.txt
+
+mkdir -p networking compute storage
+
+
+touch storage/variable.tf && touch storage/main.tf && touch storage/output.tf
