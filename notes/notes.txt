@@ -22,3 +22,6 @@ mkdir -p networking compute storage
 
 
 touch storage/variable.tf && touch storage/main.tf && touch storage/output.tf
+
+
+touch compute/userdata.tpl
