@@ -1,0 +1,3 @@
+region="eu-west-2"
+key="layer1/infrastructure.tfstate"
+bucket="zanzeeba-terrafrom-remote-state-2019-10-24"
